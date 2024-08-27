@@ -1,0 +1,1 @@
+This project focuses on analyzing hotel booking data to uncover insights and trends related to customer behavior, booking preferences, cancellations, and more. By utilizing Python's Pandas library, we perform data cleaning, manipulation, and visualization to drive meaningful conclusions that can help improve hotel services, customer satisfaction, and business performance.
